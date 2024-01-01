@@ -1,0 +1,4 @@
+Issues:-
+cannot be loaded because the execution of scripts is disabled on this system. Please see "get-help about_signing" for more details.
+Resolved:-
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
